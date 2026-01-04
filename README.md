@@ -1,9 +1,9 @@
-# Odin-Landing-Page
+# Odin-Home-Page
 
-A landing page project from The Odin Project curriculum.
+A Home page project from The Odin Project curriculum.
 
 ## Description
-This is a responsive landing page built as part of The Odin Project curriculum. It features a modern design with a navigation bar, hero section, inspirational quotes, and a call-to-action section.
+This is a responsive home page built as part of The Odin Project curriculum. It features a modern design with a navigation bar, hero section, inspirational quotes, and a call-to-action section.
 
 ## Features
 - Responsive design that works on all device sizes
